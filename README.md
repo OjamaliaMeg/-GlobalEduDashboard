@@ -1,9 +1,9 @@
 
-## 📘 Overview
+##  Overview
 
 This Excel dashboard explores the relationship between **literacy rates** and **internet access** across different countries and regions from **2022 to 2024**. It enables users to visually compare trends and identify gaps in digital and educational equity using interactive tools.
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 - Restructured the dataset to **long format** for PivotTable compatibility.
 - Added **Year**, **Country**, and **Region** fields for dynamic filtering.
